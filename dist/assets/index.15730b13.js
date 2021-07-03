@@ -1,0 +1,1 @@
+import{r as e,R as t,a as r}from"./vendor.63887eed.js";function n(){return e.exports.useState(0),t.createElement("div",{className:"App"},t.createElement("h1",null,"一封来自科学家的邀请函"))}r.render(t.createElement(t.StrictMode,null,t.createElement(n,null)),document.getElementById("root"));
